@@ -3,7 +3,7 @@ CRUD com php para aulas do SENAI, DS1
 
 **Objetivo**
 
-Criar uma aplicação capaz de realizar operações básicas que envolve os conceitos do CRUD. ultilizando como base da aplicação a linguagem orientada a objetos o Php.
+Desenvolver uma aplicação que tenha como caracteristica a capacidade de realizar operações que envolve as funcionalidade de um CRUD. ultilizando o Php como a liguagem responsavel pela parte funcional da aplicação e o Mysql sevindo como banco de dados.  
 
 **Justificativa**
 
