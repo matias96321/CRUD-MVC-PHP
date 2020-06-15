@@ -1,4 +1,4 @@
-# CRUD-php-Senai
+# CRUD-MVC-PHP-Senai
 CRUD com php para aulas do SENAI, DS1
 
 **Objetivo**
