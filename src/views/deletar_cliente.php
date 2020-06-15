@@ -48,7 +48,7 @@ $result = mysqli_query($link,$sql) or die ("Não foi possível selecionar os dad
                 
                 </tr>
             </thead>
-            <tbody>
+            <tbody> 
             
                 <?php while ($row = $result->fetch_assoc()): ?>
                 
