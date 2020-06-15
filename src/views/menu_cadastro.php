@@ -19,24 +19,14 @@
     
         <div class="div2">
 
-            
-           
+                  
 
                <div class="divF"><img src="../img/fieb.png" alt=""></div>
 
                <div class="divTitulo"><h1>Cadastre-se aqui</h1></div>
 
-               <form action="../controller/cadastrar.php" method="POST">
-               <?php 
-                session_start();  
-                if(isset($_SESSION['message'])): ?>
-                <div class="alert alert-<?=$_SESSION['msg_type'] ?>">
-                    <?php 
-                        echo $_SESSION['message'];
-                        unset($_SESSION['message']);
-                    ?>
-                </div>    
-                <?php endif?>
+               <form action="../controller/controllerCadastrar.php" method="POST">
+               
                
                <div class="divm1"><input type="text" class="form-control" name="nome" placeholder="Nome completo"></div>    
 

@@ -19,10 +19,11 @@ $result = mysqli_query($link,$sql) or die ("Não foi possível selecionar os dad
 </head>
 <body>
 
+
+
     <section class="menu">
          
         
-
         <div class="div1"></div>
      
         <div class="div2">
@@ -58,7 +59,7 @@ $result = mysqli_query($link,$sql) or die ("Não foi possível selecionar os dad
                     <td><?php echo $row['telefone']; ?></td>
                     <td><?php echo $row['curso']; ?></td>
                     <td><?php echo $row['instituicao']; ?></td>
-                    <td><a href="deletar.php?deletar=<?php echo $row['id']; ?>" class="btn btn-danger" >Deletar</a></tr>
+                    <td><a href="../controller/controllerDeletar.php?deletar=<?php echo $row['id']; ?>" class="btn btn-danger" >Deletar</a></tr>
                     
                 <?php endwhile;?>
                 
@@ -72,17 +73,17 @@ $result = mysqli_query($link,$sql) or die ("Não foi possível selecionar os dad
      
         </form>
 
-            <?php 
-                session_start();  
-                if(isset($_SESSION['message'])): ?>
-                <div class="alert alert-<?=$_SESSION['msg_type'] ?>">
-                    <?php 
-                        echo $_SESSION['message'];
-                        unset($_SESSION['message']);
-                    ?>
-                </div>    
-            <?php endif?>          
-                        
+        <?php 
+    session_start();  
+    if(isset($_SESSION['message'])): ?>
+    <div class="alert alert-<?=$_SESSION['msg_type'] ?>">
+        <?php 
+            echo $_SESSION['message'];
+            unset($_SESSION['message']);
+        ?>
+    </div>    
+<?php endif?>          
+            
                     
         </div>
                 

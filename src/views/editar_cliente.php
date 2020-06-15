@@ -32,7 +32,7 @@ $result = mysqli_query($link,$sql) or die ("Não foi possível selecionar os dad
  
         <div class="divF"><img src="../img/fieb.png" alt=""></div>
  
-        <form method="GET" action="../controller/editar.php">
+        <form method="GET" action="../controller/controllerEditar.php">
     
     <div class="divTitulo"><h1>EDITAR REGISTRO</h1></div>
     <table class="table">
