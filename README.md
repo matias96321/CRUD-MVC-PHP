@@ -3,11 +3,11 @@ CRUD com php para aulas do SENAI, DS1
 
 **Objetivo**
 
-Desenvolver uma aplicação que tenha como caracteristica a capacidade de realizar operações que envolve as funcionalidade de um CRUD. ultilizando o Php como a liguagem responsavel pela parte funcional da aplicação e o Mysql sevindo como banco de dados.  
+Desenvolver uma  aplicação básica que envolvar o perações de CRUD. Desenvolvendo em Php em  MVC e Mysql como banco de dados.  
 
 **Justificativa**
-
-Esse projeto faz parte de uma atividade avaliativa da disciplina de Desenvolvimento de software 1, do curso Técnico de Desenvolvimento de Software do SENAI.
+        
+Esté projeto  foi desenvolvido para uma atividade/desafio de natureza acadêmica  para a disciplica de Desenvolvimento de software 1 do curso Técnico de Desenvolvimento de sistema pelo SENAI.      
 
 **Autores**
 | Nome | GitHub | Likedin | E-mail
@@ -26,4 +26,4 @@ Banco de dados
 
 Hospedagem:
 
--WampServer
+-WampServer(LocalHost) - servidor local
