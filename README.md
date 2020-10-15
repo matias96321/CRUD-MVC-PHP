@@ -12,7 +12,7 @@ Esté projeto foi desenvolvido para uma atividade/desafio de natureza acadêmica
 **Autores**
 | Nome | GitHub | Likedin | E-mail
 | ---- | ------ | ------- | ------
-|Matheus Souza Matias | [matias96321](https://github.com/matias96321) [rafaellevissa](https://github.com/rafaellevissa) | [Linkedin](https://www.linkedin.com/in/matheus-matias-011bb5197/) |  matias_69914081@hotmail.com
+|Matheus Souza Matias | [matias96321](https://github.com/matias96321) | [Linkedin](https://www.linkedin.com/in/matheus-matias-011bb5197/) |  matias_69914081@hotmail.com
 
 **Tecnologias**
 
