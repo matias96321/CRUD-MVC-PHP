@@ -3,11 +3,11 @@ CRUD com php para aulas do SENAI, DS1
 
 **Objetivo**
 
-Desenvolver uma  aplicação básica que execute perações basicas do CRUD. Esté projeto é desenvolvido com Php em ultilizando o padrão de projeto de software (MVC) e Mysql como banco de dados da aplicação.  
+Desenvolver uma  aplicação básica que execute perações do CRUD. Esté projeto é desenvolvido com Php ultilizando o padrão de projeto (MVC) e Mysql como banco de dados da aplicação.  
 
 **Justificativa**
         
-Esté projeto foi desenvolvido para uma atividade/desafio de natureza acadêmica para a disciplina de Desenvolvimento de software 1 do curso Técnico de Desenvolvimento de sistema pelo SENAI.      
+Esté projeto foi desenvolvido para uma atividade/desafio de natureza acadêmica para a disciplina de Desenvolvimento de software 1 do curso Técnico de Desenvolvimento de sistema pelo SENAI.   
 
 **Autores**
 | Nome | GitHub | Likedin | E-mail
